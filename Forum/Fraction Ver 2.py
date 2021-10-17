@@ -47,6 +47,9 @@ elif X>Y:   #This "elif" statement is for improper statement and also includes c
         Q = X1//Y1
         Q1 = X1%Y1 
         print("The mixed number is", Q,"and",Q1,"/",Y)
+        
+ #My reflection after doing this task is that my code is quite messy, and for someone other than it will be quite challenging to read and understand on how it works.
+#Hopefully I can improve the look of my code for the sake of others and me if I ever decide to revisite this code.
 
 
 
